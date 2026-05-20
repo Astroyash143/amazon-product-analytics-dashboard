@@ -63,7 +63,8 @@ The dataset includes:
 4. Dashboard Design in Power BI
 5. Business Insights Generation
 
-![amazon-product-analytics-dashboard](Amazon Dashboard.png)
+## Screenshot Of Dashboard
+![Amazon Dashboard Preview](Amazon Dashboard.png)
 ---
 
 ## Author
