@@ -64,7 +64,7 @@ The dataset includes:
 5. Business Insights Generation
 
 ## Screenshot Of Dashboard
-!(Amazon Dashboard.png)
+![Amazon Sales Dashboard](Amazon%20Dashboard.png)
 ---
 
 ## Author
